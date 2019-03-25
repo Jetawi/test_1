@@ -15,3 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.acceptAlert()
 
+WebUI.closeBrowser()
+
+WebUI.dismissAlert()
+
